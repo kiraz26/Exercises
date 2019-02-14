@@ -6,7 +6,7 @@ public class LoginValidator2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String user = "halilkiraz";
+		String user = "johnnycash";
 		String pass = "123";
 
 		Scanner input = new Scanner(System.in);
